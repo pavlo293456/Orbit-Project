@@ -1,0 +1,74 @@
+{
+  "common": {
+    "title": "Ukrainian Translation & Notary Services",
+    "bookNow": "Book Appointment",
+    "cancel": "Cancel",
+    "save": "Save",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!"
+  },
+  "booking": {
+    "step1": "Select Service",
+    "step2": "Choose Date & Time",
+    "step3": "Your Information",
+    "step4": "Review & Confirm",
+    "selectService": "What service do you need?",
+    "selectDate": "Pick a date",
+    "selectTime": "Choose a time",
+    "noAvailability": "No available times on this date",
+    "yourName": "Your full name",
+    "yourEmail": "Your email address",
+    "yourPhone": "Your phone number",
+    "additionalNotes": "Additional notes (optional)",
+    "uploadDocuments": "Upload documents (optional)",
+    "uploadHint": "For translation services, you can upload documents in advance",
+    "reviewBooking": "Review your appointment",
+    "confirmBooking": "Confirm Appointment",
+    "bookingSuccess": "Your appointment has been submitted!",
+    "bookingSuccessMessage": "You will receive a confirmation email once the appointment is approved.",
+    "requiredField": "This field is required"
+  },
+  "services": {
+    "notary": "Notary Service",
+    "translation": "Document Translation",
+    "consultation": "Consultation",
+    "duration": "Duration",
+    "price": "Price",
+    "minutes": "minutes"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "appointments": "Appointments",
+    "pending": "Pending",
+    "approved": "Approved",
+    "cancelled": "Cancelled",
+    "completed": "Completed",
+    "approve": "Approve",
+    "reject": "Reject",
+    "markCompleted": "Mark Completed",
+    "blockTime": "Block Time",
+    "settings": "Settings",
+    "logout": "Logout",
+    "noAppointments": "No appointments found",
+    "clientInfo": "Client Information",
+    "serviceDetails": "Service Details",
+    "documents": "Uploaded Documents"
+  },
+  "location": {
+    "office": "Office Location",
+    "address": "10219 97 St NW, Edmonton, AB T5J 0L6",
+    "inside": "Inside Orbit Ukrainian Mirko Store",
+    "hours": "Office Hours",
+    "mondayFriday": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "weekend": "Saturday - Sunday: Closed"
+  },
+  "email": {
+    "newBooking": "New Booking Request",
+    "appointmentApproved": "Your Appointment is Confirmed",
+    "appointmentCancelled": "Appointment Cancelled"
+  }
+}

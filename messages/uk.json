@@ -1,0 +1,74 @@
+{
+  "common": {
+    "title": "Українські переклади та нотаріальні послуги",
+    "bookNow": "Записатися",
+    "cancel": "Скасувати",
+    "save": "Зберегти",
+    "back": "Назад",
+    "next": "Далі",
+    "submit": "Надіслати",
+    "loading": "Завантаження...",
+    "error": "Сталася помилка",
+    "success": "Успішно!"
+  },
+  "booking": {
+    "step1": "Оберіть послугу",
+    "step2": "Виберіть дату та час",
+    "step3": "Ваша інформація",
+    "step4": "Перевірка та підтвердження",
+    "selectService": "Яка послуга вам потрібна?",
+    "selectDate": "Оберіть дату",
+    "selectTime": "Виберіть час",
+    "noAvailability": "Немає доступного часу на цю дату",
+    "yourName": "Ваше повне ім'я",
+    "yourEmail": "Ваша електронна адреса",
+    "yourPhone": "Ваш телефон",
+    "additionalNotes": "Додаткові примітки (необов'язково)",
+    "uploadDocuments": "Завантажити документи (необов'язково)",
+    "uploadHint": "Для перекладу ви можете завантажити документи заздалегідь",
+    "reviewBooking": "Перевірте ваш запис",
+    "confirmBooking": "Підтвердити запис",
+    "bookingSuccess": "Ваш запис надіслано!",
+    "bookingSuccessMessage": "Ви отримаєте електронний лист з підтвердженням після схвалення.",
+    "requiredField": "Це поле обов'язкове"
+  },
+  "services": {
+    "notary": "Нотаріальні послуги",
+    "translation": "Переклад документів",
+    "consultation": "Консультація",
+    "duration": "Тривалість",
+    "price": "Ціна",
+    "minutes": "хвилин"
+  },
+  "admin": {
+    "dashboard": "Панель адміністратора",
+    "appointments": "Записи",
+    "pending": "Очікують",
+    "approved": "Схвалені",
+    "cancelled": "Скасовані",
+    "completed": "Завершені",
+    "approve": "Схвалити",
+    "reject": "Відхилити",
+    "markCompleted": "Позначити виконаним",
+    "blockTime": "Заблокувати час",
+    "settings": "Налаштування",
+    "logout": "Вийти",
+    "noAppointments": "Записів не знайдено",
+    "clientInfo": "Інформація про клієнта",
+    "serviceDetails": "Деталі послуги",
+    "documents": "Завантажені документи"
+  },
+  "location": {
+    "office": "Адреса офісу",
+    "address": "10219 97 St NW, Edmonton, AB T5J 0L6",
+    "inside": "Всередині магазину Orbit Ukrainian Mirko Store",
+    "hours": "Години роботи",
+    "mondayFriday": "Понеділок - П'ятниця: 9:00 - 17:00",
+    "weekend": "Субота - Неділя: Зачинено"
+  },
+  "email": {
+    "newBooking": "Новий запит на запис",
+    "appointmentApproved": "Ваш запис підтверджено",
+    "appointmentCancelled": "Запис скасовано"
+  }
+}
